@@ -1,0 +1,11 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+.chatRoomBox{
+  width: 500px;
+  height: 500px;
+  border: 1px #999 solid;
+  border-radius: 5px;
+}
